@@ -178,8 +178,8 @@ export default function Home() {
       <CardHeader>
         <CardTitle>Pilih Kriteria Game Anda!</CardTitle>
         <CardDescription>
-          Pilih salah satu dari 5 kriteria dibawah. jika anda sudah selesai
-          memilih, silahkan tekan tombol &quot;Cari Rekomendasi&quot;.
+          Jawab pertanyaan berikut satu per satu untuk mendapatkan rekomendasi
+          game yang sesuai.
         </CardDescription>
       </CardHeader>
       <Form {...form}>
